@@ -4,10 +4,12 @@ The Jantar Mantar Dimension Generator is a Python/Streamlit web application that
 
 This tool solves the challenge of adapting the fixed geometry of the Yantras by generating all required angles and dimensions based on a user-defined Latitude ($\phi$) and Scale Factor ($R$).
 
+
 **🚀 Live Application**
 
 The application is deployed and available for public use here:
 https://fisicsroyalelf.streamlit.app/
+
 
 **🔬 Project Context & Academic Contributions**
 
@@ -19,8 +21,10 @@ This project contributes to SDG 4 (Quality Education) and SDG 11 (Cultural Herit
 
 3] Positional Astronomy: Serving as an interactive laboratory for studying the relationship between geography and celestial coordinates.
 
+
 **🛠️ Installation and Local Run**
 To run the application locally, you must have Python (3.8+) installed.
+
 
 **Clone the repository:**
 git clone https://github.com/coderRAM05/fisics_royal_elf
@@ -29,6 +33,7 @@ cd yantra-dimension-generator
 
 **Install dependencies:**
 pip install -r requirements.txt
+
 
 **Run the application:**
 streamlit run yantra_web_app.py
@@ -45,6 +50,7 @@ streamlit run yantra_web_app.py
 4] Rama Yantra: Cylindrical Structure (Measures Altitude and Azimuth via projection)
 
 5] Digamsa Yantra: Azimuth Instrument (Measures Horizontal Bearing)
+
 
 **📄 Full Project Report**
 The complete academic analysis, including the 30-page project report, mathematical derivations, and literature review, is available in the documentation folder:
