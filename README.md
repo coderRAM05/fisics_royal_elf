@@ -25,15 +25,12 @@ This project contributes to SDG 4 (Quality Education) and SDG 11 (Cultural Herit
 ### **🛠️ Installation and Local Run**
 To run the application locally, you must have Python (3.8+) installed.
 
-
 ## **Clone the repository:**
 git clone https://github.com/coderRAM05/fisics_royal_elf
 cd yantra-dimension-generator
 
-
 ### **Install dependencies:**
 pip install -r requirements.txt
-
 
 ### **Run the application:**
 streamlit run yantra_web_app.py
