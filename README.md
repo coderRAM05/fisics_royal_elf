@@ -1,4 +1,4 @@
-**🕌 Yantra Dimension Generator: A Parametric Tool for Astronomical Heritage**
+###**🕌 Yantra Dimension Generator: A Parametric Tool for Astronomical Heritage**
 
 The Jantar Mantar Dimension Generator is a Python/Streamlit web application that translates the complex geometric principles of the 18th-century Indian astronomical observatories (Yantras) into precise, scalable architectural blueprints.
 
