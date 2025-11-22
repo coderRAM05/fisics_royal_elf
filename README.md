@@ -11,7 +11,7 @@ The application is deployed and available for public use here:
 https://fisicsroyalelf.streamlit.app/
 
 
-## **🔬 Project Context & Academic Contributions**
+### **🔬 Project Context & Academic Contributions**
 
 This project contributes to SDG 4 (Quality Education) and SDG 11 (Cultural Heritage) by providing a verifiable, engineering-grade tool for:
 
@@ -25,7 +25,7 @@ This project contributes to SDG 4 (Quality Education) and SDG 11 (Cultural Herit
 ### **🛠️ Installation and Local Run**
 To run the application locally, you must have Python (3.8+) installed.
 
-## **Clone the repository:**
+### **Clone the repository:**
 git clone https://github.com/coderRAM05/fisics_royal_elf
 cd yantra-dimension-generator
 
